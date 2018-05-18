@@ -3,5 +3,5 @@ Site feito em React
 
 # exec project
 
-npm install
-npm start
+- npm install
+- npm start
